@@ -4,7 +4,7 @@ I worked on this project because all independent features were of categorical ty
 Columns like Date_of_Journey, Dep_Time, Arrival_Time, Duration is a object data type. Therefore, we have to convert this datatype into timestamp so as to use this column properly for prediction. For this we require pandas to_datetime to convert object data type to datetime dtype.
 
 # Handling Categorical Data :-
-One can find many ways to handle categorical data. Some of them categorical data are.
+One can find many ways to handle categorical data. Some of them categorical data are:
 * Nominal data** --> data are not in any order --> **OneHotEncoder** is used in this case
 * Ordinal data** --> data are in order --> **LabelEncoder** is used in this case
 
