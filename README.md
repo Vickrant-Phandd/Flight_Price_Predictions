@@ -8,8 +8,8 @@ One can find many ways to handle categorical data. Some of them categorical data
 **Nominal data** --> data are not in any order --> **OneHotEncoder** is used in this case
 **Ordinal data** --> data are in order --> **LabelEncoder** is used in this case
 
-Nominal categorical data will perform OneHotEncoding using pd.get_dummies()
-Ordinal Categorical type we perform LabelEncoder Here Values are assigned with corresponding keys.
+* Nominal categorical data will perform OneHotEncoding using pd.get_dummies()
+* Ordinal Categorical type we perform LabelEncoder Here Values are assigned with corresponding keys.
 
 # Feature Selection:-
 Finding out the best feature which will contribute and have good relation with target variable. Following are some of the feature selection methods,
