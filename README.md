@@ -28,9 +28,9 @@ Finding out the best feature which will contribute and have good relation with t
 * Plot graph
 
 # Hyperparameter Tuning:-
-Choose following method for hyperparameter tuning
-RandomizedSearchCV --> Fast
-GridSearchCV
-Assign hyperparameters in form of dictionery
-Fit the model
-Check best paramters and best score
+Choose following method for hyperparameter tuning:
+* RandomizedSearchCV --> Fast
+* GridSearchCV
+* Assign hyperparameters in form of dictionery
+* Fit the model
+* Check best paramters and best score
