@@ -13,19 +13,19 @@ One can find many ways to handle categorical data. Some of them categorical data
 
 # Feature Selection:-
 Finding out the best feature which will contribute and have good relation with target variable. Following are some of the feature selection methods,
-**heatmap**
-**feature_importance_**
-**SelectKBest**
+* heatmap 
+* feature_importance_ 
+* SelectKBest 
 
 # Fitting model using Random Forest:-
-Split dataset into train and test set in order to prediction w.r.t X_test
-If needed do scaling of data
-Scaling is not done in Random forest
-Import model
-Fit the data
-Predict w.r.t X_test
-In regression check RSME Score
-Plot graph
+* Split dataset into train and test set in order to prediction w.r.t X_test
+* If needed do scaling of data
+* Scaling is not done in Random forest
+* Import model
+* Fit the data
+* Predict w.r.t X_test
+* In regression check RSME Score
+* Plot graph
 
 # Hyperparameter Tuning:-
 Choose following method for hyperparameter tuning
